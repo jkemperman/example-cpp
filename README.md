@@ -1,4 +1,4 @@
-# CPP Plant waterer
+# CPP Plant watererr
 
 Demo project for CPP CI/CD example 
 
